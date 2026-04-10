@@ -1,0 +1,59 @@
+{
+  "Settings": {
+    "Owner": {
+      "AssetId": "86444499722107",
+      "TextureId": "116563115279556"
+    },
+    "Admin": {
+      "AssetId": "72292124648433",
+      "TextureId": "116563115279556"
+    },
+    "Member": {
+      "AssetId": "122594881015733",
+      "TextureId": "116563115279556"
+    }
+  },
+  "Permissions": {
+    "Owners": {
+      "xhy_perion": { "CustomName": "HYPERION" },
+      "Owner02Username": { "CustomName": "Hyperion" }
+    },
+    "Admins": {
+      "juggernut_01": { "CustomName": "StrikeX" },
+      "wIwfreak": { "CustomName": "MODERATOR" }
+    }
+  },
+  "Fonts": {
+    "Code": [
+      "xhy_perion",
+      "HYPERION"
+    ],
+    "Arcade": [
+      "juggernut_01",
+      "StrikeX"
+    ],
+    "GothamBold": [
+      "VipUser123"
+    ]
+  },
+  "Animations": {
+    "Glitch": [
+      "xhy_perion",
+      "HYPERION"
+    ],
+    "Bounce": [
+      "juggernut_01",
+      "StrikeX"
+    ],
+    "Scroll": [
+      "VipUser123"
+    ]
+  },
+  "CustomTags": {
+    "VipUser123": {
+      "CustomName": "Testing01",
+      "AssetId": "123456789",
+      "TextureId": "987654321"
+    }
+  }
+}
