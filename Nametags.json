@@ -22,7 +22,7 @@
       "juggernut_01": { "CustomName": "StrikeX" },
       "wIwfreak": { "CustomName": "AK MOD" },
       "GM_KaZuKi": { "CustomName": "ADMIN" },
-      "Ffsfh_55": { "CustomName": "ADMIN" }
+      "Ffsfh_55": { "CustomName": "Neko02" }
     }
   },
   "Fonts": {
@@ -35,7 +35,7 @@
       "StrikeX"
     ],
     "GothamBold": [
-      "VipUser123"
+      "Neko02"
     ]
   },
   "Animations": {
@@ -44,8 +44,8 @@
       "HYPERION"
     ],
     "Bounce": [
-      "juggernut_01",
-      "StrikeX"
+      "Ffsfh_55",
+      "Neko02"
     ],
     "Scroll": [
       "VipUser123"
