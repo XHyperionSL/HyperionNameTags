@@ -15,7 +15,7 @@
   },
 
   "Owners": {
-    "_comment": "ProfilePicId = Roblox asset for circle pic. Leave \"\" to use their Roblox avatar.",
+    "_comment": "ProfilePicId = custom circle pic override. Leave \"\" to use rank icon as pic.",
     "xhy_perion": { "CustomName": "HYPERION", "ProfilePicId": "" }
   },
 
@@ -24,7 +24,7 @@
   },
 
   "CustomTags": {
-    "_comment": "Per-user overrides: AssetId (icon), BarTextureId (bar bg), ProfilePicId (circle pic).",
+    "_comment": "Per-user overrides. ProfilePicId overrides the rank icon in the circle pic.",
     "VipUser123": {
       "CustomName":   "Testing01",
       "AssetId":      "122594881015733",
