@@ -1,65 +1,48 @@
 {
-  "Settings": {
-    "Owner": {
-      "AssetId": "86444499722107",
-      "TextureId": "116563115279556"
-    },
-    "Admin": {
-      "AssetId": "72292124648433",
-      "TextureId": "116563115279556"
-    },
-    "Member": {
-      "AssetId": "122594881015733",
-      "TextureId": "116563115279556"
-    }
+  "_comment":  "═══  HYPERION NAMETAG CONFIG v3.1  ═══",
+  "_comment2": "Push to GitHub → script auto-fetches on next execute.",
+  "_comment3": "All image IDs are Roblox Asset IDs (upload at create.roblox.com → Decals).",
+
+  "Version": "3.1",
+
+  "RankAssets": {
+    "_comment": "One icon per rank. Shown in the far-range icon badge.",
+    "_comment2": "BarTextureId = optional background image for the tag bar.",
+    "Owner":  { "AssetId": "86444499722107",  "BarTextureId": "" },
+    "Admin":  { "AssetId": "72292124648433",  "BarTextureId": "" },
+    "Custom": { "AssetId": "122594881015733", "BarTextureId": "" },
+    "Member": { "AssetId": "122594881015733", "BarTextureId": "" }
   },
-  "Permissions": {
-    "Owners": {
-      "xhy_perion": { "CustomName": "Hyperion" },
-      "Owner02Username": { "CustomName": "Hyperion" }
-    },
-    "Admins": {
-      "juggernut_01": { "CustomName": "StrikeX" },
-      "wIwfreak": { "CustomName": "AK MOD" },
-      "GM_KaZuKi": { "CustomName": "ADMIN" },
-      "Ffsfh_55": { "CustomName": "Neko02" },
-      "UnholyAngxl": { "CustomName": "MeowMeow" },
-      "lbrxkenlxve2": { "CustomName": "StoicIsTheBest" }
-    }
+
+  "Owners": {
+    "_comment": "ProfilePicId = Roblox asset for circle pic. Leave \"\" to use their Roblox avatar.",
+    "xhy_perion": { "CustomName": "HYPERION", "ProfilePicId": "" }
   },
-  "Fonts": {
-    "Code": [
-      "xhy_perion",
-      "HYPERION"
-    ],
-    "Arcade": [
-      "juggernut_01",
-      "StrikeX"
-    ],
-    "GothamBold": [
-      "Neko02"
-    ]
+
+  "Admins": {
+    "juggernut_01": { "CustomName": "StrikeX", "ProfilePicId": "" }
   },
-  "Animations": {
-    "Glitch": [
-      "xhy_perion",
-      "HYPERION",
-      "UnholyAngxl",
-      "MeowMeow"
-    ],
-    "Bounce": [
-      "Ffsfh_55",
-      "Neko02"
-    ],
-    "Scroll": [
-      "VipUser123"
-    ]
-  },
+
   "CustomTags": {
+    "_comment": "Per-user overrides: AssetId (icon), BarTextureId (bar bg), ProfilePicId (circle pic).",
     "VipUser123": {
-      "CustomName": "Testing01",
-      "AssetId": "123456789",
-      "TextureId": "987654321"
+      "CustomName":   "Testing01",
+      "AssetId":      "122594881015733",
+      "BarTextureId": "",
+      "ProfilePicId": ""
     }
+  },
+
+  "Animations": {
+    "_comment": "Glitch / Bounce / Scroll. Scroll is default.",
+    "Glitch": ["xhy_perion"],
+    "Bounce": ["juggernut_01"],
+    "Scroll": []
+  },
+
+  "Fonts": {
+    "_comment": "Override name font. Options: GothamBlack, GothamBold, Gotham, Code, Arcade, Fantasy",
+    "GothamBlack": ["xhy_perion"],
+    "GothamBold":  ["juggernut_01"]
   }
 }
