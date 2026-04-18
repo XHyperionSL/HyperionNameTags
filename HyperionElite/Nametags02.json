@@ -130,10 +130,10 @@
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
-      "TextAnim": "Fade",
-      "BarAnim": "Aurora",
+      "TextAnim": "Rainbow",
+      "BarAnim": "Circuit",
       "Font": "Ubuntu",
-      "NameColor": "Rose"
+      "NameColor": "Sunset"
     }
   },
 
