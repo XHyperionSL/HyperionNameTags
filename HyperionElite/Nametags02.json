@@ -14,9 +14,9 @@
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
-      "TextAnim": "Glitch",
-      "BarAnim": "CyberScan",
-      "Font": "RobotoMono",
+      "TextAnim": "Decrypt",
+      "BarAnim": "Plasma",
+      "Font": "SciFi",
       "NameColor": "Cyan"
     },
     "Owner02Username": {
@@ -130,10 +130,10 @@
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
-      "TextAnim": "Glitch",
-      "BarAnim": "Binary",
-      "Font": "",
-      "NameColor": ""
+      "TextAnim": "Fade",
+      "BarAnim": "Aurora",
+      "Font": "Ubuntu",
+      "NameColor": "Rose"
     }
   },
 
