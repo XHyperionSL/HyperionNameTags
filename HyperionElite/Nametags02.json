@@ -130,10 +130,10 @@
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
-      "TextAnim": "Plasma",
-      "BarAnim": "Pulse",
-      "Font": "Ubuntu",
-      "NameColor": "Sunset"
+      "TextAnim": "Glitch",
+      "BarAnim": "Plasma",
+      "Font": "FredokaOne",
+      "NameColor": "Rose"
     }
   },
 
