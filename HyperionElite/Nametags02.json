@@ -87,10 +87,10 @@
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
-      "TextAnim": "Pulse",
-      "BarAnim": "Binary",
-      "Font": "Ubuntu",
-      "NameColor": "Ice"
+      "TextAnim": "Glitch",
+      "BarAnim": "Hologram",
+      "Font": "FredokaOne",
+      "NameColor": "Rose"
     }
   },
 
