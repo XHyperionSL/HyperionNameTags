@@ -130,8 +130,8 @@
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
-      "TextAnim": "",
-      "BarAnim": "",
+      "TextAnim": "Glitch",
+      "BarAnim": "Binary",
       "Font": "",
       "NameColor": ""
     }
