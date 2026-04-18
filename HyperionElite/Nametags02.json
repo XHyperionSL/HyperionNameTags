@@ -1,52 +1,120 @@
 {
-  "_comment":  "═══  HYPERION NAMETAG CONFIG v5.0  ═══",
-  "_comment2": "TextureId = Roblox CONTENT ID (the number inside the Decal, NOT the Decal page URL).",
-  "_comment3": "To find TextureId: open decal in Studio → click → look at Properties → Texture → copy the number.",
-
-  "Version": "5.0",
-
-  "BarDecal": {
-    "_comment": "Default bar background for ALL users. Override per-user in their section.",
-    "TextureId": "139739326975668",
-    "VideoId": ""
-  },
+  "Version": "6.0",
 
   "RankIcons": {
-    "_comment": "Badge shown on left of bar + far-distance icon. Use TextureId (content ID).",
     "Owner":  { "TextureId": "111898059488288" },
     "Admin":  { "TextureId": "127926176312979" },
+    "Custom": { "TextureId": "89432466071079" },
     "Member": { "TextureId": "89432466071079" }
   },
 
   "Owners": {
-    "_comment": "BarTextureId/BarVideoId override the default bar for this user only.",
-    "xhy_perion": { "CustomName": "HYPERION", "BarTextureId": "", "BarVideoId": "" }
-  },
-
-  "Admins": {
-    "juggernut_01": { "CustomName": "StrikeX", "BarTextureId": "", "BarVideoId": "" }
-  },
-
-  "CustomTags": {
-    "_comment": "Per-user overrides. Gets Member rank icon unless you add a custom RankTextureId.",
-    "VipUser123": {
-      "CustomName":    "Testing01",
-      "BarTextureId":  "",
-      "BarVideoId":    "",
-      "RankTextureId": ""
+    "xhy_perion": {
+      "CustomName": "HYPERION",
+      "BarDecalId": "",
+      "BarVideoId": "",
+      "RankTextureId": "",
+      "TextAnim": "Glitch",
+      "BarAnim": "CyberScan",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan"
     }
   },
 
-  "Animations": {
-    "_comment": "Glitch / Bounce / Scroll. Everyone else defaults to Scroll.",
-    "Glitch": ["xhy_perion"],
-    "Bounce": ["juggernut_01"],
-    "Scroll": []
+  "Admins": {
+    "juggernut_01": {
+      "CustomName": "StrikeX",
+      "BarDecalId": "",
+      "BarVideoId": "",
+      "RankTextureId": "",
+      "TextAnim": "Bounce",
+      "BarAnim": "CyberScan",
+      "Font": "GothamBold",
+      "NameColor": "Red"
+    }
   },
 
-  "Fonts": {
-    "_comment": "GothamBlack, GothamBold, Gotham, Code, Arcade, Fantasy",
-    "GothamBlack": ["xhy_perion"],
-    "GothamBold":  ["juggernut_01"]
-  }
+  "CustomTags": {
+    "VipUser123": {
+      "CustomName": "Testing01",
+      "BarDecalId": "",
+      "BarVideoId": "",
+      "RankTextureId": "",
+      "TextAnim": "Scroll",
+      "BarAnim": "CyberScan",
+      "Font": "GothamBlack",
+      "NameColor": ""
+    }
+  },
+
+  "AvailableTextAnimations": [
+    "Scroll",
+    "Glitch",
+    "Bounce",
+    "Wave",
+    "Typewriter",
+    "Fade",
+    "Rainbow",
+    "Shake",
+    "Pulse",
+    "Flicker",
+    "Decrypt",
+    "Matrix",
+    "Static"
+  ],
+
+  "AvailableBarAnimations": [
+    "CyberScan",
+    "Pulse",
+    "Breathe",
+    "Rainfall",
+    "Hologram",
+    "Waveform",
+    "Firefly",
+    "Circuit",
+    "Plasma",
+    "Heartbeat",
+    "Aurora",
+    "Binary",
+    "None"
+  ],
+
+  "AvailableFonts": [
+    "GothamBlack",
+    "GothamBold",
+    "Gotham",
+    "GothamMedium",
+    "SourceSans",
+    "SourceSansBold",
+    "SourceSansLight",
+    "SourceSansSemibold",
+    "RobotoMono",
+    "Ubuntu",
+    "Nunito",
+    "FredokaOne",
+    "Bangers",
+    "Arcade",
+    "Fantasy",
+    "Highway",
+    "SciFi"
+  ],
+
+  "AvailableNameColors": [
+    "Cyan",
+    "Red",
+    "Purple",
+    "Gold",
+    "Emerald",
+    "Sunset",
+    "Ice",
+    "Neon",
+    "Rose",
+    "Ocean",
+    "Lava",
+    "Mint",
+    "Sakura",
+    "Toxic",
+    "Silver",
+    "White"
+  ]
 }
