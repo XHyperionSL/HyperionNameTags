@@ -124,6 +124,16 @@
       "BarAnim": "Rainfall",
       "Font": "GothamBold",
       "NameColor": "Mint"
+    },
+    "neonfoxtail123": {
+      "CustomName": "Marilyn",
+      "BarDecalId": "",
+      "BarVideoId": "",
+      "RankTextureId": "",
+      "TextAnim": "Fade",
+      "BarAnim": "Aurora",
+      "Font": "Ubuntu",
+      "NameColor": "Rose"
     }
   },
 
