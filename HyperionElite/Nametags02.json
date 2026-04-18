@@ -1,0 +1,52 @@
+{
+  "_comment":  "═══  HYPERION NAMETAG CONFIG v5.0  ═══",
+  "_comment2": "TextureId = Roblox CONTENT ID (the number inside the Decal, NOT the Decal page URL).",
+  "_comment3": "To find TextureId: open decal in Studio → click → look at Properties → Texture → copy the number.",
+
+  "Version": "5.0",
+
+  "BarDecal": {
+    "_comment": "Default bar background for ALL users. Override per-user in their section.",
+    "TextureId": "139739326975668",
+    "VideoId": ""
+  },
+
+  "RankIcons": {
+    "_comment": "Badge shown on left of bar + far-distance icon. Use TextureId (content ID).",
+    "Owner":  { "TextureId": "111898059488288" },
+    "Admin":  { "TextureId": "127926176312979" },
+    "Member": { "TextureId": "89432466071079" }
+  },
+
+  "Owners": {
+    "_comment": "BarTextureId/BarVideoId override the default bar for this user only.",
+    "xhy_perion": { "CustomName": "HYPERION", "BarTextureId": "", "BarVideoId": "" }
+  },
+
+  "Admins": {
+    "juggernut_01": { "CustomName": "StrikeX", "BarTextureId": "", "BarVideoId": "" }
+  },
+
+  "CustomTags": {
+    "_comment": "Per-user overrides. Gets Member rank icon unless you add a custom RankTextureId.",
+    "VipUser123": {
+      "CustomName":    "Testing01",
+      "BarTextureId":  "",
+      "BarVideoId":    "",
+      "RankTextureId": ""
+    }
+  },
+
+  "Animations": {
+    "_comment": "Glitch / Bounce / Scroll. Everyone else defaults to Scroll.",
+    "Glitch": ["xhy_perion"],
+    "Bounce": ["juggernut_01"],
+    "Scroll": []
+  },
+
+  "Fonts": {
+    "_comment": "GothamBlack, GothamBold, Gotham, Code, Arcade, Fantasy",
+    "GothamBlack": ["xhy_perion"],
+    "GothamBold":  ["juggernut_01"]
+  }
+}
