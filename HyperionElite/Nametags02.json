@@ -16,8 +16,18 @@
       "RankTextureId": "",
       "TextAnim": "Glitch",
       "BarAnim": "CyberScan",
-      "Font": "GothamBlack",
+      "Font": "RobotoMono",
       "NameColor": "Cyan"
+    },
+    "Owner02Username": {
+      "CustomName": "HYPERION",
+      "BarDecalId": "",
+      "BarVideoId": "",
+      "RankTextureId": "",
+      "TextAnim": "Matrix",
+      "BarAnim": "Binary",
+      "Font": "GothamBlack",
+      "NameColor": "Gold"
     }
   },
 
@@ -28,9 +38,59 @@
       "BarVideoId": "",
       "RankTextureId": "",
       "TextAnim": "Bounce",
-      "BarAnim": "CyberScan",
-      "Font": "GothamBold",
+      "BarAnim": "Pulse",
+      "Font": "Arcade",
       "NameColor": "Red"
+    },
+    "wIwfreak": {
+      "CustomName": "AK MOD",
+      "BarDecalId": "",
+      "BarVideoId": "",
+      "RankTextureId": "",
+      "TextAnim": "Shake",
+      "BarAnim": "Waveform",
+      "Font": "Bangers",
+      "NameColor": "Neon"
+    },
+    "GM_KaZuKi": {
+      "CustomName": "ADMIN",
+      "BarDecalId": "",
+      "BarVideoId": "",
+      "RankTextureId": "",
+      "TextAnim": "Typewriter",
+      "BarAnim": "Hologram",
+      "Font": "SciFi",
+      "NameColor": "Purple"
+    },
+    "Kopegoingdown5": {
+      "CustomName": "Racist Neko",
+      "BarDecalId": "",
+      "BarVideoId": "",
+      "RankTextureId": "",
+      "TextAnim": "Glitch",
+      "BarAnim": "Plasma",
+      "Font": "FredokaOne",
+      "NameColor": "Rose"
+    },
+    "UnholyAngxl": {
+      "CustomName": "MeowMeow",
+      "BarDecalId": "",
+      "BarVideoId": "",
+      "RankTextureId": "",
+      "TextAnim": "Glitch",
+      "BarAnim": "Firefly",
+      "Font": "Nunito",
+      "NameColor": "Sakura"
+    },
+    "lbrxkenlxve2": {
+      "CustomName": "StoicIsTheBest",
+      "BarDecalId": "",
+      "BarVideoId": "",
+      "RankTextureId": "",
+      "TextAnim": "Pulse",
+      "BarAnim": "Breathe",
+      "Font": "Ubuntu",
+      "NameColor": "Ice"
     }
   },
 
@@ -39,11 +99,31 @@
       "CustomName": "Testing01",
       "BarDecalId": "",
       "BarVideoId": "",
-      "RankTextureId": "",
+      "RankTextureId": "987654321",
       "TextAnim": "Scroll",
       "BarAnim": "CyberScan",
       "Font": "GothamBlack",
-      "NameColor": ""
+      "NameColor": "Emerald"
+    },
+    "Ffsfh_55": {
+      "CustomName": "VIP User",
+      "BarDecalId": "",
+      "BarVideoId": "",
+      "RankTextureId": "",
+      "TextAnim": "Bounce",
+      "BarAnim": "Heartbeat",
+      "Font": "SourceSansBold",
+      "NameColor": "Sunset"
+    },
+    "Neko02": {
+      "CustomName": "Neko User",
+      "BarDecalId": "",
+      "BarVideoId": "",
+      "RankTextureId": "",
+      "TextAnim": "Bounce",
+      "BarAnim": "Rainfall",
+      "Font": "GothamBold",
+      "NameColor": "Mint"
     }
   },
 
