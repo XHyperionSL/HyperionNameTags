@@ -15,7 +15,7 @@
       "BarVideoId": "",
       "RankTextureId": "",
       "TextAnim": "Decrypt",
-      "BarAnim": "Hex",
+      "BarAnim": "Binary",
       "Font": "SciFi",
       "NameColor": "Cyan"
     },
