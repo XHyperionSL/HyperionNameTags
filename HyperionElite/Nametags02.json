@@ -151,9 +151,9 @@
       "BarVideoId": "",
       "RankTextureId": "",
       "TextAnim": "Decrypt",
-      "BarAnim": "Matrix",
+      "BarAnim": "Mandala",
       "Font": "Ubuntu",
-      "NameColor": "Silver"
+      "NameColor": "Lava"
     },
     "CodeBreaker_99": {
       "CustomName": "Hacker",
