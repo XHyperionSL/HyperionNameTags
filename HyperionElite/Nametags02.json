@@ -14,7 +14,7 @@
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
-      "TextAnim": "Decrypt",
+      "TextAnim": "Matrix",
       "BarAnim": "Binary",
       "Font": "SciFi",
       "NameColor": "Cyan"
@@ -151,9 +151,9 @@
       "BarVideoId": "",
       "RankTextureId": "",
       "TextAnim": "Decrypt",
-      "BarAnim": "DNA",
+      "BarAnim": "Matrix",
       "Font": "Ubuntu",
-      "NameColor": "Ice"
+      "NameColor": "Silver"
     },
     "CodeBreaker_99": {
       "CustomName": "Hacker",
