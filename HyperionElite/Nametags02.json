@@ -77,7 +77,7 @@
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
-      "TextAnim": "Glitch",
+      "TextAnim": "Decrypt",
       "BarAnim": "Firefly",
       "Font": "Nunito",
       "NameColor": "Sakura"
@@ -135,12 +135,12 @@
       "Font": "Ubuntu",
       "NameColor": "Rose"
     },
-    "CyberSamurai": {
-      "CustomName": "Ronin",
+    "curlyquebobert": {
+      "CustomName": "REDACTED",
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
-      "TextAnim": "Glitch",
+      "TextAnim": "Decrypt",
       "BarAnim": "Tribal",
       "Font": "SciFi",
       "NameColor": "Purple"
