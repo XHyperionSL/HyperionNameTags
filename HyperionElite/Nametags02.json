@@ -14,13 +14,13 @@
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
-      "TextAnim": "Matrix",
+      "TextAnim": "Decrypt",
       "BarAnim": "Binary",
       "Font": "SciFi",
       "NameColor": "Cyan"
     },
-    "Owner02Username": {
-      "CustomName": "HYPERION",
+    "lbrxkenlxve2": {
+      "CustomName": "Stoic Is The Best",
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
@@ -82,7 +82,7 @@
       "Font": "Nunito",
       "NameColor": "Sakura"
     },
-    "lbrxkenlxve2": {
+    "PENDING": {
       "CustomName": "StoicIsTheBest",
       "BarDecalId": "",
       "BarVideoId": "",
