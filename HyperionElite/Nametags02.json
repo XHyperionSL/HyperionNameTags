@@ -135,6 +135,16 @@
       "Font": "Ubuntu",
       "NameColor": "Rose"
     },
+    "iiv_stqrr": {
+      "CustomName": "Marilyn ALT",
+      "BarDecalId": "",
+      "BarVideoId": "",
+      "RankTextureId": "",
+      "TextAnim": "Decrypt",
+      "BarAnim": "Firework",
+      "Font": "Ubuntu",
+      "NameColor": "Rose"
+    },
     "curlyquebobert": {
       "CustomName": "REDACTED",
       "BarDecalId": "",
