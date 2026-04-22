@@ -28,6 +28,16 @@
       "BarAnim": "Binary",
       "Font": "GothamBlack",
       "NameColor": "Gold"
+    },
+    "xStephTheBest": {
+      "CustomName": "Stoic Is The Best",
+      "BarDecalId": "",
+      "BarVideoId": "",
+      "RankTextureId": "",
+      "TextAnim": "Matrix",
+      "BarAnim": "Binary",
+      "Font": "GothamBlack",
+      "NameColor": "Gold"
     }
   },
 
