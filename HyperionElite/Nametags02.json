@@ -181,9 +181,9 @@
       "BarVideoId": "",
       "RankTextureId": "",
       "TextAnim": "Decrypt",
-      "BarAnim": "Matrix",
+      "BarAnim": "Lava",
       "Font": "RobotoMono",
-      "NameColor": "Neon"
+      "NameColor": "Lava"
     },
     "CrimsonKing": {
       "CustomName": "Dominion",
