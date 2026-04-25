@@ -19,7 +19,7 @@
       "Font": "SciFi",
       "NameColor": "Cyan"
     },
-    "lbrxkenlxve2": {
+    "lbrxkenlxve2xx": {
       "CustomName": "Stoic Is The Best",
       "BarDecalId": "",
       "BarVideoId": "",
@@ -29,7 +29,7 @@
       "Font": "GothamBlack",
       "NameColor": "Gold"
     },
-    "xStephTheBest": {
+    "xStephTheBestxx": {
       "CustomName": "Stoic Is The Best",
       "BarDecalId": "",
       "BarVideoId": "",
@@ -92,7 +92,17 @@
       "Font": "Nunito",
       "NameColor": "Sakura"
     },
-    "PENDING": {
+    "xStephTheBest": {
+      "CustomName": "StoicIsTheBest",
+      "BarDecalId": "",
+      "BarVideoId": "",
+      "RankTextureId": "",
+      "TextAnim": "Pulse",
+      "BarAnim": "Breathe",
+      "Font": "Ubuntu",
+      "NameColor": "Ice"
+    },
+    "lbrxkenlxve2": {
       "CustomName": "StoicIsTheBest",
       "BarDecalId": "",
       "BarVideoId": "",
