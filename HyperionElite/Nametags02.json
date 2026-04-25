@@ -205,15 +205,15 @@
       "Font": "Nunito",
       "NameColor": "White"
     },
-    "ToxicViper": {
-      "CustomName": "Venom",
+    "Kryptorion": {
+      "CustomName": "Crypt",
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
-      "TextAnim": "Static",
-      "BarAnim": "Electric",
+      "TextAnim": "Glitch",
+      "BarAnim": "Spectrum",
       "Font": "Bangers",
-      "NameColor": "Toxic"
+      "NameColor": "Red"
     },
     "QuantumPhantom": {
       "CustomName": "Void",
