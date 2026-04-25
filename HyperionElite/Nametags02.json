@@ -210,10 +210,10 @@
       "BarDecalId": "",
       "BarVideoId": "",
       "RankTextureId": "",
-      "TextAnim": "Glitch",
+      "TextAnim": "Decrypt",
       "BarAnim": "Spectrum",
-      "Font": "Bangers",
-      "NameColor": "Red"
+      "Font": "GothamBlack",
+      "NameColor": "Cyan"
     },
     "QuantumPhantom": {
       "CustomName": "Void",
