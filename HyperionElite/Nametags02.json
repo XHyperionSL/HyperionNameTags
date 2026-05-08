@@ -244,6 +244,16 @@
       "BarAnim": "Crown",
       "Font": "Fantasy",
       "NameColor": "Gold"
+    },
+    "Pumpkinlex_kin": {
+      "CustomName": "SharkPuppy",
+      "BarDecalId": "",
+      "BarVideoId": "",
+      "RankTextureId": "",
+      "TextAnim": "Decrypt",
+      "BarAnim": "Spectrum",
+      "Font": "GothamBlack",
+      "NameColor": "Cyan"
     }
   },
 
